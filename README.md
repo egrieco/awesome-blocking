@@ -43,6 +43,12 @@ These resources are mostly related to blocking things at the host level i.e. IP,
 * [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
 * [referrer-spam-list](https://github.com/matomo-org/referrer-spam-list): Community-contributed list of referrer spammers.
 
+### Crypto Miner Blockers
+
+* [adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list): Block lists to prevent JavaScript miners
+* [CoinBlockerLists](https://gitlab.com/ZeroDot1/CoinBlockerLists): Simple lists that can help prevent cryptomining in the browser or other applications.
+* [MinerBlock](https://github.com/xd4rker/MinerBlock)
+
 ## URL Blocking Resources
 
 These resources are served by conventional URLs and thus have not history. They will also be harder to transfer to a new maintainer if the original maintainer moves on.
