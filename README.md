@@ -27,6 +27,13 @@ These resources are mostly related to blocking things at the host level i.e. IP,
 * [hosts-blocklists](https://github.com/notracking/hosts-blocklists): Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage.
 * [whotracks.me](https://github.com/cliqz-oss/whotracks.me): Data from the largest and longest measurement of online tracking.
 
+### WebExtensions
+
+* [uBlock](https://egrieco@github.com/gorhill/uBlock)
+* [uBlockProtector](https://github.com/jspenguin2017/uBlockProtector)
+* [uAssets](https://github.com/uBlockOrigin/uAssets): Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
+* [Block-Site](https://github.com/ray-lothian/Block-Site)
+
 ## URL Blocking Resources
 
 These resources are served by conventional URLs and thus have not history. They will also be harder to transfer to a new maintainer if the original maintainer moves on.
