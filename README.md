@@ -4,6 +4,7 @@ An [awesome repository](https://github.com/sindresorhus/awesome) to collect vari
 
 ## Canonical Sources
 
+* [Keybase](keybase://team/securityidentity/awesome-blocking)
 * [GitLab](https://gitlab.com/egrieco/awesome-blocking)
 * [GitHub](https://github.com/egrieco/awesome-blocking)
 
