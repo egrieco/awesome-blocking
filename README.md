@@ -52,3 +52,10 @@ These resources are mostly related to blocking things at the host level i.e. IP,
 ## URL Blocking Resources
 
 These resources are served by conventional URLs and thus have not history. They will also be harder to transfer to a new maintainer if the original maintainer moves on.
+
+### COVID Blocklists
+
+* [Cyber volunteers release blocklists for 26,000 COVID-19 threats](https://www.bleepingcomputer.com/news/security/cyber-volunteers-release-blocklists-for-26-000-covid-19-threats/)
+	* [URL blocklist](https://blocklist.cyberthreatcoalition.org/vetted/url.txt)
+	* [domain blocklist](https://blocklist.cyberthreatcoalition.org/vetted/domain.txt)
+	* NOTE: The hash and ip blocklists are unpopulated as of Oct 6, 2020, 11:17 PM MST.
