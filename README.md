@@ -34,6 +34,15 @@ These resources are mostly related to blocking things at the host level i.e. IP,
 * [uAssets](https://github.com/uBlockOrigin/uAssets): Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 * [Block-Site](https://github.com/ray-lothian/Block-Site)
 
+### Browser and Email Blockers
+
+* [adblockradio](https://github.com/adblockradio/adblockradio)
+* [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)
+* [EMailTrackerBlocker](https://github.com/JannikArndt/EMailTrackerBlocker)
+* [ping-blocker](https://github.com/dessant/ping-blocker)
+* [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
+* [referrer-spam-list](https://github.com/matomo-org/referrer-spam-list): Community-contributed list of referrer spammers.
+
 ## URL Blocking Resources
 
 These resources are served by conventional URLs and thus have not history. They will also be harder to transfer to a new maintainer if the original maintainer moves on.
