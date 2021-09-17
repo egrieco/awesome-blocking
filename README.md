@@ -65,3 +65,11 @@ These resources are served by conventional URLs and thus have not history. They 
 	* [URL blocklist](https://blocklist.cyberthreatcoalition.org/vetted/url.txt)
 	* [domain blocklist](https://blocklist.cyberthreatcoalition.org/vetted/domain.txt)
 	* NOTE: The hash and ip blocklists are unpopulated as of Oct 6, 2020, 11:17 PM MST.
+
+## Sponsor Blocking
+
+* [NeuralBlock](https://github.com/andrewzlee/NeuralBlock) ([ajayyy's fork](https://github.com/ajayyy/NeuralBlock)): Neural Network that detects in-video YouTube sponsorships.
+* [SponsorBlock](https://github.com/ajayyy/SponsorBlock): Skip YouTube video sponsors (browser extension)
+* [SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer): Skip YouTube video sponsors (server side portion)
+* [SponSkrub](https://github.com/faissaloo/SponSkrub) ([yt-dlp's fork](https://github.com/yt-dlp/SponSkrub), now archived): Strip advertisements from downloaded YouTube videos
+* [mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock): mpv script to skip sponsored segments of YouTube videos
